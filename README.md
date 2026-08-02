@@ -12,7 +12,7 @@ PCA transforms high-dimensional data into a lower-dimensional space by finding t
 
 ---
 <p align="center">
-  <img src="output.png" width="700">
+  <img src="image.png" width="700">
 </p>
 
 <p align="center">
