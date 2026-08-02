@@ -170,6 +170,7 @@ The following scatter plot represents the transformed data in two dimensions.
 - X-axis: Principal Component 1
 - Y-axis: Principal Component 2
 - Different colors represent different digits
+images/output.png
 
 ---
 
@@ -245,7 +246,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.h
 
 ## 👨‍💻 Author
 
-Sai Lokesh
+Garikapati Sai Lokesh
 
 B.Tech Robotics and Artificial Intelligence
 
