@@ -11,6 +11,15 @@ Principal Component Analysis (PCA) is a dimensionality reduction technique used 
 PCA transforms high-dimensional data into a lower-dimensional space by finding the directions (principal components) that maximize the variance in the data.
 
 ---
+<p align="center">
+  <img src="output.png" width="700">
+</p>
+
+<p align="center">
+  PCA visualization of the digits dataset after dimensionality reduction
+</p>
+
+# PCA from Scratch in Python
 
 ## 🎯 Objective
 
